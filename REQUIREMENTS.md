@@ -23,7 +23,7 @@
 * ### notification-service
   * [ ] Notify users of their any related activities.
 * ### react-post-service
-  * [ ] manage all Reacts, comments of any post. 
+  * [ ] manage all reacts, comments of any post. 
 * ### messaging-service
   * [ ] Manage chats between two or multiple users.
   * [ ] Create chat groups.
